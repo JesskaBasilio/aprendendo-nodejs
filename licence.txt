@@ -1,0 +1,9 @@
+MIT License
+
+Copyright (c) [ano] [seu nome ou nome da sua empresa]
+
+Permitted usage:
+- Use, modify, and distribute the software
+- Provided that proper credit is given
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
