@@ -4,7 +4,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start:dev": "node src/index.js"
+    "dist": "npx tsc src/index.ts",
+    "start:dev": "npm run dist && node src/index.js"
   },
   "keywords": [],
   "author": "",
