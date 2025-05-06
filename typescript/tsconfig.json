@@ -1,0 +1,11 @@
+//O tsconfig é o arquivo de comportamento do TypeScript
+//É como o TypeScript deve se comportar no projeto
+{
+  "compilerOptions": {
+    "target": "ES6", //versão ecma script 6
+    "module": "CommonJS", //para aumentar a compatibilidade
+    "outDir": "./dist", //configuração da pasta de saída, onde os arquivos transpilados irão ficar
+    "strict": true,//habilita as explicações
+    "esModuleInterop": true
+  }
+}
