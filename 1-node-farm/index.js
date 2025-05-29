@@ -35,6 +35,9 @@ const url = require('url');
 //***************** SERVER *******************// 
 
 const server = http.createServer((req, res) => {
+    //console.log(req.url);
+    //res.end('Page connected');
+    
     const pathName = req.url;
 
     if (pathName === '/' || pathName === '/overview'){
